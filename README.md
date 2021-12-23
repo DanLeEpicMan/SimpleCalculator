@@ -1,5 +1,5 @@
 # Introduction
-Name says it all. I made this through VisualStudio while teaching myself C#. It's nothing too marveleous; more like a way to test my GUI skills (as in, designing one and adding functionality to it). 
+Name says it all. I made this through VisualStudio while teaching myself C#. It's nothing too marvelous; more like a way to test my GUI skills (as in, designing one and adding functionality to it). 
 
 In order to run this, you must have the .NET Framework installed (as that's what C# is based on). [Here's a link to the Windows download](https://dotnet.microsoft.com/en-us/download/dotnet-framework). For those of you on non-Windows operating systems, [here's an alternative link](https://dotnet.microsoft.com/en-us/download).
 
