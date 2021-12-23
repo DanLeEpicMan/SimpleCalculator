@@ -7,6 +7,7 @@ Your anti-defender might flag the .exe file as a virus. I promise that this isn'
 
 # Explanation of Files
 **Calculator** — A folder that contains a compiled executable file. Also has a .dll and some other files; I don't think they're necessary but I included them just in case.
+
 **CalculatorApp.csproj** — The VisualStudio project file itself. Should contain all the code. I created this in VisualStudio 2019 and have no idea if it will work on newer or older versions (newer version should be able to handle this though).
 
 I do not care what you do with this. Feel free to take it and modify it however you'd like.
