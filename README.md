@@ -10,4 +10,4 @@ Your anti-defender might flag the .exe file as a virus. I promise that this isn'
 
 **CalculatorApp.csproj** — The VisualStudio project file itself. Should contain all the code. I created this in VisualStudio 2019 and have no idea if it will work on newer or older versions (newer versions should be able to run this though).
 
-Feel free to take this and modify it however you'd like. I do not care what you do with it.
+Feel free to take this and modify it however you'd like. Just don't claim it as your own unless you've added your personal flavor to it ;)
