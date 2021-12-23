@@ -6,8 +6,8 @@ In order to run this, you must have the .NET Framework installed (as that's what
 Your anti-defender might flag the .exe file as a virus. I promise that this isn't a virus, but your only source of trust is a README file from the project itself, so I get it if you're hesitant. In that case, you can compile the project directly in VisualStudio.
 
 # Explanation of Files
-**Calculator** — A folder that contains a compiled executable file. Also has a .dll and some other files; I don't think they're necessary but I included them just in case.
+**Calculator** — A folder that contains an executable (exe) file of the calculator. As mentioned above, this will not work unless you have .NET installed. There's also some other files here, namely a .dll, runtime, and json files; I don't think they're all necessary, but I included them just in case.
 
-**CalculatorApp.csproj** — The VisualStudio project file itself. Should contain all the code. I created this in VisualStudio 2019 and have no idea if it will work on newer or older versions (newer version should be able to handle this though).
+**CalculatorApp.csproj** — The VisualStudio project file itself. Should contain all the code. I created this in VisualStudio 2019 and have no idea if it will work on newer or older versions (newer versions should be able to run this though).
 
-I do not care what you do with this. Feel free to take it and modify it however you'd like.
+Feel free to take this and modify it however you'd like. I do not care what you do with it.
