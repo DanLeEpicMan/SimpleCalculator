@@ -6,6 +6,6 @@ I made this via WPF, and as such is a Windows-only GUI. [Here's a link to the Wi
 # Explanation of Files
 **Calculator** — A folder that contains an executable (exe) file of the calculator. As mentioned above, this will not work unless you have .NET installed. There's also some other files here, namely dll, runtime, and json files; I don't think they're all necessary, but I included them just in case.
 
-**CalculatorApp.csproj** — The VisualStudio project file itself. Should contain all the code. I created this in VisualStudio 2019 and have no idea if it will work on newer or older versions (newer versions should be able to run this though).
+**CalculatorApp.csproj** — Doesn't contain anything, will update this repo soon.
 
 Feel free to take this and modify it however you'd like. Just don't claim it as your own unless you've added your personal flavor to it ;)
